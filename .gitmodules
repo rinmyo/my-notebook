@@ -1,0 +1,3 @@
+[submodule "libs/typst-physics"]
+	path = libs/typst-physics
+	url = https://github.com/Leedehai/typst-physics.git
