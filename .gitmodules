@@ -1,3 +1,6 @@
 [submodule "libs/typst-physics"]
 	path = libs/typst-physics
 	url = https://github.com/Leedehai/typst-physics.git
+[submodule "libs/typst-theorems"]
+	path = libs/typst-theorems
+	url = https://github.com/sahasatvik/typst-theorems.git
